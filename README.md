@@ -1,4 +1,4 @@
-# Discord-RSA-Keys
+# Discord-RSA
 Finally, a way to generate RSA keys from Discord messages.
 
 ## What is this?
